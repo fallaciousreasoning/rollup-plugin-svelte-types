@@ -1,0 +1,19 @@
+{
+  "name": "rollup-plugin-sveltedts",
+  "version": "1.0.0",
+  "description": "A rollup plugin for generating typescript definitions at build time",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rollup",
+    "svelte",
+    "plugin",
+    "typescript",
+    "tsx",
+    "typedefinitions"
+  ],
+  "author": "fallaciousreasoning",
+  "license": "MIT"
+}
