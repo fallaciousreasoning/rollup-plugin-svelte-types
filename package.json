@@ -1,9 +1,12 @@
 {
-  "name": "rollup-plugin-sveltedts",
+  "name": "rollup-plugin-svelte-types",
   "version": "1.0.0",
   "description": "A rollup plugin for generating typescript definitions at build time",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
+  "repository": {
+    "url": "https://github.com/fallaciousreasoning/rollup-plugin-sveltedts"
+  },
   "scripts": {
     "build": "rollup -c",
     "test": "echo \"Error: no test specified\" && exit 1"
