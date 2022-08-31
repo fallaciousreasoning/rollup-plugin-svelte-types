@@ -32,5 +32,8 @@
     "typedefinitions"
   ],
   "author": "fallaciousreasoning",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "svelte2tsx": "^0.5.16"
+  }
 }
